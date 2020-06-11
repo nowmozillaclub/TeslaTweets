@@ -28,7 +28,7 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how 
 
 ## Credits
 
-This project is developed by a bunch of engineering students at NMIMS MPSTME, Mumbai. Take a look at the entire list of [contributors](https://github.com/nowmozillaclub/TeslaTweets/graphs/contributors) to see who all have helped with the project. The image on top is a photo by [Roberto Nickson](https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tesla finance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+This project is developed by a bunch of engineering students at NMIMS MPSTME, Mumbai. Take a look at the entire list of [contributors](https://github.com/nowmozillaclub/TeslaTweets/graphs/contributors) to see who all have helped with the project. The image on top is a photo by [Roberto Nickson](https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.
 
 ## License
 
