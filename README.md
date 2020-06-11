@@ -1,5 +1,4 @@
-<p align="center"><img height="150" width="150" src="./branding/icon.jpg" alt="TeslaTweets"/></p>
-<p align="center">Photo by [Roberto Nickson](https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tesla-finance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</p>
+<p align="center"><img height="400" width="400" src="./branding/icon.jpg" alt="TeslaTweets"/></p>
 
 # TeslaTweets
 
@@ -29,7 +28,7 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how 
 
 ## Credits
 
-This project is developed by a bunch of engineering students at NMIMS MPSTME, Mumbai. Take a look at the entire list of [contributors](https://github.com/nowmozillaclub/TeslaTweets/graphs/contributors) to see who all have helped with the project.
+This project is developed by a bunch of engineering students at NMIMS MPSTME, Mumbai. Take a look at the entire list of [contributors](https://github.com/nowmozillaclub/TeslaTweets/graphs/contributors) to see who all have helped with the project. The image on top is a photo by [Roberto Nickson](https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tesla finance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## License
 
