@@ -33,3 +33,9 @@ This project is developed by a bunch of engineering students at NMIMS MPSTME, Mu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Conclusion
+
+<img height="400" width="400" src='./branding/models_Accuracy.png' alt='Accuracy score of the models'/>
+
+Here, XGBoostClassifier is the best model as it has an accuracy of ~61%. To read more more about how we got here and the steps we followed in this project, read [FINAL_REPORT.md](FINAL_REPORT.md).
