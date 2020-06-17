@@ -11,17 +11,17 @@ In this project we have tried to predict change in Tesla’s stock price from th
 
 ## Exploratory Data Analysis
 
-1. In which month does Elon Musk tweet the most?
+### 1. In which month does Elon Musk tweet the most?
 
 <img src='./branding/tweet_frequency.png' alt='Month-wise tweet frequency'/>
 
-2. Short analysis
+### 2. Short analysis
 
 <img src='./branding/tweet_analysis.png' alt='Short analysis'/>
 
 ## Project flow
 
-1. Data pre-processing
+### 1. Data pre-processing
 - Extract date from the column called "Time".
 - Sort the dataset by date, in ascending order.
 - Drop unwanted columns like "row ID", "Time", "Retweet from" and "User".
@@ -32,12 +32,12 @@ In this project we have tried to predict change in Tesla’s stock price from th
 - Drop unwanted columns like "High", "Low", "Volume", "Adj Close" and "price_diff".
 - Save it in csv format.
 
-2. Natural Language Processing
+### 2. Natural Language Processing
 - Use tokenization and lemmatization to remove unwanted words from the tweet and store all of them in a column called "new_tweet".
 - Use TfidfVectorizer for pre-processing the tweets and store it in X in the form of an array.
 - Convert X to a dataframe and add a new column called "len_tweets" which will store the length of each new_tweet.
 
-3. Machine Learning
+### 3. Machine Learning
 - Apply train test split on the dataset, use test_size = 0.2
 - For this project, we have tried three algorithms, Logistic Regression, XGBoost and Naive Bayes Classifier.
 
@@ -47,19 +47,19 @@ For model selection, we need to look at accuracy, precision and recall. So, let'
 
 ### Accuracy
 
-<img src='./branding/models_Accuracy.png' alt='Accuracy score of the models'/>
+<img height="400" width="400" src='./branding/models_Accuracy.png' alt='Accuracy score of the models'/>
 
 Here, XGBoostClassifier is the best model as it has an accuracy of ~61% followed by Logistic Regression with an accuracy of ~55%.
 
 ### Precision
 
-<img src='./branding/models_Precision.png' alt='Precision of the models'/>
+<img height="400" width="400" src='./branding/models_Precision.png' alt='Precision of the models'/>
 
 Here, XGBoostClassifier is the best model as it has a precision of 0.61 followed by Logistic Regression with a precision of 0.56.
 
 ### Recall
 
-<img src='./branding/models_Recall.png' alt='Recall of the models'/>
+<img height="400" width="400" src='./branding/models_Recall.png' alt='Recall of the models'/>
 
 Here, XGBoostClassifier is the best model as it has a recall of 0.61 followed by Logistic Regression with a recall of 0.56.
 
