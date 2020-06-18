@@ -1,4 +1,4 @@
-<p align="center"><img height="400" width="400" src="./branding/icon.jpg" alt="TeslaTweets"/></p>
+<p align="center">![Tesla logo](https://www.seekpng.com/png/detail/15-151235_tesla-png-logo-transparent-background-tesla-logo.png)</p>
 
 # TeslaTweets
 
